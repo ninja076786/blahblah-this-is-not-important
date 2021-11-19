@@ -1,0 +1,32 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-size:26px;
+    width:100%
+}
+.not{
+    font-size:17px;
+    color:aquamarine;
+}
+.speed{
+float:left;
+}
+.vol{
+    float:right;
+}
+.spimg,.volimg{
+width:200px;
+}
+#speed1,#vol1{
+    font-size:23px;
+    margin: 15px;
+}
+.play_button{
+    font-size:20px;
+}
+canvas{
+    border-radius:20px;
+    border:5px 5px dotted aqua;
+}
